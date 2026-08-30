@@ -1,70 +1,91 @@
 # Hussein Munther Hussein Al-Awaini
 
+### Junior Full-Stack Web Developer | Frontend Developer
 
+Software Development graduate from the Islamic University of Gaza, Faculty of Information Technology, with a GPA of **85.76% (Very Good)** and **6th place in my cohort**, graduated in November 2025.
 
-## Junior Full-Stack Web Developer | Front-End Developer
+I build responsive web interfaces and full-stack web applications, with a strong focus on **HTML, CSS, JavaScript, PHP, Laravel, and MySQL**.
 
+I also work with **Next.js, React, Node.js, Java, and Python**, and continuously improve my skills through self-directed learning and practical projects.
 
+I completed a **Frontend Development internship at Webura**, where I worked on implementing frontend pages and responsive user interfaces.
 
-I am a Software Development graduate from the Islamic University of Gaza, Faculty of Information Technology. I graduated on 5 November 2025 with a GPA of 85.76%, a Very Good grade, and sixth place in my cohort.
+## Technical Skills
 
+**Frontend**
 
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+* React
+* Next.js
+* TypeScript
 
-I build responsive front-end interfaces and full-stack web applications using Laravel, PHP, JavaScript, Vue, React, Next.js, and MySQL. I completed a front-end internship at Webura, where I worked on front-end pages and practical UI implementation.
+**Backend**
 
+* PHP
+* Laravel
+* Node.js
+* Java
+* Python
 
+**Database & Tools**
 
-My portfolio projects are personal and educational projects developed with support from AI-assisted tools. I review and understand the implementation and continue to strengthen testing, deployment, and production-readiness.
-
-
+* MySQL
+* REST APIs
+* Git
+* GitHub
+* Postman
+* Vite
+* Netlify
+* Vercel
 
 ## Featured Projects
 
+### AgencyFlow AI
 
+Full-stack agency management SaaS prototype built with Laravel, Vue, Inertia, Tailwind CSS, and MySQL.
 
-- [AgencyFlow AI](https://github.com/hu93217042-png/agencyflow-ai) — Full-stack agency management SaaS prototype with Laravel, Vue, Inertia, Tailwind, MySQL, permissions, billing, reporting, and AI-assisted workflows.
-- 
-- [Nexora](https://quiet-kheer-cd4e19.netlify.app/) — Live front-end concept for a fictional enterprise AI platform built with Next.js, React, TypeScript, Three.js, and custom CSS.
-- 
-- [Restaurant Management System](https://github.com/hu93217042-png/restaurant) — Laravel system for restaurant operations, reservations, orders, tables, employees, customers, and reports.
-- 
-- [ElectroShop](https://github.com/hu93217042-png/ElectroShop) — Laravel e-commerce prototype with products, cart, orders, wishlist, reviews, inventory, and admin dashboard.
-- 
+### ElectroShop
 
+Laravel-based e-commerce platform with product management, shopping cart, checkout, orders, inventory, and administration.
 
-## Skills
+### Nexora
 
+Modern Next.js/React frontend project with responsive design, animations, bilingual content, and interactive visual effects.
 
+### Restaurant Management System
 
-**Front-End:** HTML, CSS, JavaScript, React, Vue, Next.js, TypeScript, Bootstrap, Tailwind CSS
-
-
-
-**Back-End:** PHP, Laravel, Node.js, Java, Python
-
-
-
-**Database and tools:** MySQL, REST APIs, Git, GitHub, Vite, Postman, Netlify, Vercel
-
-
+Laravel business management system covering reservations, POS orders, employees, tables, inventory workflows, dashboards, and reports.
 
 ## Education
 
+**B.Sc. in Software Development**
+Islamic University of Gaza — Faculty of Information Technology
 
+**Graduated:** November 2025
+**GPA:** 85.76% — Very Good
+**Rank:** 6th in cohort
 
-B.Sc. in Software Development — Islamic University of Gaza, Faculty of Information Technology — 2025
+## Internship
 
+**Frontend Development Intern — Webura**
 
+Completed a practical frontend development internship focused on implementing web pages and responsive user interfaces.
+
+## Currently
+
+I am actively looking for opportunities as a **Junior Software Developer, Frontend Developer, or Junior Full-Stack Developer**, including remote and on-site opportunities.
+
+I am always open to learning new technologies, solving practical problems, and contributing to real-world software projects.
 
 ## Contact
 
-
-
-- Email: hu93217042@gmail.com
-- 
-- LinkedIn: [Hussein Al-Awaini](https://www.linkedin.com/in/%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D9%8A%D9%86%D9%8A-74868a398/)
-- 
-
+* Email: [hu93217042@gmail.com](mailto:hu93217042@gmail.com)
+* LinkedIn: [Hussein Al-Awaini](www.linkedin.com/in/حسين-العويني-74868a398)
+* GitHub: [github.com/hu93217042-png](https://github.com/hu93217042-png)
 
 
 
